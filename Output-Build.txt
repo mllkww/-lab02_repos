@@ -1,0 +1,7 @@
+﻿Build started at 0:15...
+1>------ Build started: Project: PR2.0, Configuration: Debug x64 ------
+1>  PR2.0.cpp
+1>  LINK : C:\Users\house\Desktop\1\1 семестр\алгоритмізація та програмування\PR2.0\x64\Debug\PR2.0.exe not found or not built by the last incremental link; performing full link
+1>  PR2.0.vcxproj -> C:\Users\house\Desktop\1\1 семестр\алгоритмізація та програмування\PR2.0\x64\Debug\PR2.0.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 0:15 and took 02,835 seconds ==========
